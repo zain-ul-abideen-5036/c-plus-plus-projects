@@ -2,7 +2,7 @@
 A simple C++ console-based game where players guess a randomly generated number between 1 and 10.
 
 ---
-##Features
+## Features
 - **Random Number Generation:** The game generates a secret number between 1 and 10.
 - **Input Validation:** Ensures guesses are within the valid range (1-10).
 - **Hints:** Provides "Too High" or "Too Low" feedback after each guess.
