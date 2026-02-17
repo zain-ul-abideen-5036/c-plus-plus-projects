@@ -76,6 +76,45 @@ g++ main.cpp -o output
 
 ---
 
+## Repository Structure
+```bash
+C++-Projects-Collection/
+│
+├── Library Management System/
+│   ├── README.md
+│   └── Task Three Command-Line Library Management System.cpp
+│
+├── Movie Ticket Booking System/
+│   ├── README.md
+│   └── task05MovieManagement.cpp
+│
+├── Number Guessing Game/
+│   ├── README.md
+│   └── task01GaussingGame.cpp
+│
+├── Simple Calculator in C++/
+│   ├── README.md
+│   └── task02SimpleCalculator.cpp
+│
+├── Student Grade Management System/
+│   ├── README.md
+│   └── Task One Student Grade Calculator.cpp
+│
+├── Student Grades Tracker/
+│   ├── README.md
+│   └── task03StudentGradingSystem.cpp
+│
+├── Tic-Tac-Toe Game/
+│   ├── README.md
+│   └── Task Two Tic Tac Toe.cpp
+│
+├── Word Counter/
+│   ├── README.md
+│   └── task04WordCount.cpp
+│
+└── README.md
+```
+
 ## Purpose of This Repository
 - Build a strong C++ portfolio
 - Practice real-world project logic
